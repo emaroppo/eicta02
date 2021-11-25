@@ -1,0 +1,66 @@
+econ_sector_id,econ_sector
+I,Accommodation and food service activities
+U,Activities of extraterritorial organisations and bodies
+M70,Activities of head offices; management consultancy activities
+T97,Activities of households as employers of domestic personnel
+S94,Activities of membership organisations
+M73,Advertising and market research
+A,"Agriculture, forestry and fishing"
+M71,Architectural and engineering activities; technical testing and analysis
+R,"Arts, entertainment and recreation"
+J62,"Computer programming, consultancy and related activities"
+F,Construction
+P,Education
+D35,"Electricity, gas, steam and air conditioning supply"
+N78,Employment activities
+K,Financial and insurance activities
+Q,Human health and social work activities
+J63,Information service activities
+M69,Legal and accounting activities
+C24,Manufacture of basic metals
+C21,Manufacture of basic pharmaceutical products and pharmaceutical preparations
+C11,Manufacture of beverages
+C20,Manufacture of chemicals and chemical products
+C19,Manufacture of coke and refined petroleum products
+C26,"Manufacture of computer, electronic and optical products"
+C27,Manufacture of electrical equipment
+C25,"Manufacture of fabricated metal products, except machinery and equipment"
+C10,Manufacture of food products
+C31,Manufacture of furniture
+C15,Manufacture of leather and related products
+C28,Manufacture of machinery and equipment n.e.c.
+C29,"Manufacture of motor vehicles, trailers and semi-trailers"
+C23,Manufacture of other non-metallic mineral products
+C30,Manufacture of other transport equipment
+C17,Manufacture of paper and paper products
+C22,Manufacture of rubber and plastic products
+C13,Manufacture of textiles
+C12,Manufacture of tobacco products
+C14,Manufacture of wearing apparel
+C16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+B,Mining and quarrying
+J59,"Motion picture, video and television programme production, sound recording and music publishing activities"
+N82,"Office administrative, office support and other business support activities (without 82.92)"
+C32,Other manufacturing
+S96,Other personal service activities
+M74,"Other professional, scientific and technical activities"
+N82.92,Packaging activities
+C18,Printing and reproduction of recorded media
+J60,Programming and broadcasting activities
+O,Public administration and defence; compulsory social security
+J58,Publishing activities
+L,Real estate activities
+N77,Rental and leasing activities
+C33,Repair and installation of machinery and equipment
+S95,Repair of computers and personal and household goods
+M72,Scientific research and development
+N80,Security and investigation activities
+N81,Services to buildings and landscape activities
+J61,Telecommunications
+H,Transporting and storage
+N79,"Travel agency, tour operator reservation service and related activities"
+T98.1,Undifferentiated goods-producing activities of private households for own use
+T98.2,Undifferentiated service-producing activities of private households for own use
+M75,Veterinary activities
+E,Water supply; sewerage; waste management and remediation activities
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles

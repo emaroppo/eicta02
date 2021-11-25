@@ -1,0 +1,11 @@
+branch_id,employer_id,street_n,street_name,city,open_to_public
+1,1,153,CLOUD CIR,Keo,1
+2,1,54,NATICK ST,Keo,1
+3,2,157,MOUNTVIEW CT,Keo,0
+4,2,42,TIOGA AVE,Keo,0
+5,3,154,SAINT GERMAIN AVE,Keo,0
+6,4,144,LENOX WAY,Keo,0
+7,4,79,LE CONTE AVE,Keo,0
+8,5,33,02ND AVE,Keo,0
+9,6,103,09TH AVE,Keo,0
+10,7,187,TAMALPAIS TER,Keo,1
