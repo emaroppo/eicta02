@@ -435,8 +435,8 @@ test_id,citizen_id,test_date,test_place,test_result
 374,68,2021-09-26 22:33:36.828148,Langley,False
 375,78,2020-04-18 01:35:06.759345,Louisville,True
 376,78,2020-05-02 01:35:06.759345,Woodland,False
-376,38,2021-09-18 19:13:03.902247,Lake of the Woods,True
-377,38,2021-10-02 19:13:03.902247,Esparto,False
+376,38,2021-06-15 19:13:03.902247,Lake of the Woods,True
+377,38,2021-06-29 19:13:03.902247,Esparto,False
 377,42,2021-01-26 01:40:53.699365,Porter,False
 378,33,2020-03-31 08:14:07.013561,Clarkrange,False
 379,108,2020-07-12 15:23:47.618829,Germantown,False
